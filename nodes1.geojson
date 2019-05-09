@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "I205Points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2927" } },
+"features": [
+{ "type": "Feature", "id": "201", "geometry": { "type": "Point", "coordinates": [ 1116133.958, 101590.7058 ] } },
+{ "type": "Feature", "id": "202", "geometry": { "type": "Point", "coordinates": [ 1115459.80431, 107044.911638 ] } },
+{ "type": "Feature", "id": "203", "geometry": { "type": "Point", "coordinates": [ 1113796.24624, 112519.005707 ] } },
+{ "type": "Feature", "id": "204", "geometry": { "type": "Point", "coordinates": [ 1110765.24396, 125727.01217 ] } },
+]
+}
